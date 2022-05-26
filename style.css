@@ -1,0 +1,14 @@
+.titulo1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    }
+
+
+    .titulo2{
+        color: rgb(21, 3, 180);
+        text-align: center;
+        }
+    
+        p,h1 {
+            color: red;
+          }
